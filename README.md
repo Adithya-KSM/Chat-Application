@@ -19,7 +19,7 @@ This is a real-time, console-based chat application developed in Java that allow
 
 ## 📂 Project Structure
 ```plaintext
-ChatApp/
+ChatApp/src/
 ├── Server.java
 ├── Client.java
 ├── ClientHandler.java
